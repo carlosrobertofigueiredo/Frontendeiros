@@ -7,8 +7,8 @@
 
 // Configuração do ambiente.
 const app = {
-    siteName: 'FrontEndeiros',
-    siteSlogan: 'Programando para o futuro',
+    siteName: 'NetSaúde',
+    siteSlogan: 'Portal da saúde',
     apiBaseURL: 'http://localhost:8080/'
 }
 
